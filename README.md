@@ -1,16 +1,12 @@
-# i_am_dave
+# I am Dave
 
-A new Flutter project.
+I am Dave is my first challenge app from [Angela Yu's The Complete 2020 Flutter Developement Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 
-## Getting Started
+## The Backstory
+Many, many years ago, the Internet directory guided me to a Tumblr blog called [The Same Picture of Dave Coulier Every Day](https://samepicofdavecoulier.tumblr.com/). This is not clickbait, by friends. This blog has posted the exact same photo of Dave Coulier (Joey from Full House) every single day since its inception. It's brilliant.
 
-This project is a starting point for a Flutter application.
+I am continuing this blog's legacy by creating an app that does absolutely nothing...but spread the joy that is Dave Coulier. You're welcome.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Learning Flutter has been pretty fun so far! If you'd like to get started, [check out Flutter's documentation](https://flutter.dev/docs) and try [building your first app](https://flutter.dev/docs/get-started/codelab)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
