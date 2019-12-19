@@ -7,9 +7,13 @@ void main()
         home: Scaffold(
               backgroundColor: Colors.white,
               appBar: AppBar(
-                title: Text('I Am Dave'),
+                title: Text('I Am Dave',
+                  style: TextStyle(
+                    color: Colors.black
+                  ),
+                ),
                 centerTitle: true,
-                backgroundColor: Colors.black,
+                backgroundColor: Colors.white70,
               ),
               body: Center(
                 child: Image(
